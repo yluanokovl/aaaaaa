@@ -13,8 +13,8 @@ namespace lab8
             PrintSystemMediator med = new PrintSystemMediator(printer, queue, logger, dispatcher);
 
             IDocumentState s = new NewState();
-            Document doc1 = new Document("tosha", s);
-            Document doc2 = new Document("fushigurov", s);
+            Document doc1 = new Document("aaa", s);
+            Document doc2 = new Document("f", s);
             doc1.SetMediator(med);
             doc2.SetMediator(med);
 
@@ -24,7 +24,7 @@ namespace lab8
 
             Console.WriteLine();
             printer.SimulateFailure = true;
-            Document doc3 = new Document("nbfailure", s);
+            Document doc3 = new Document("fail", s);
             doc3.SetMediator(med);
             doc3.AddToQueue();
             dispatcher.CommandProcessQueue();
