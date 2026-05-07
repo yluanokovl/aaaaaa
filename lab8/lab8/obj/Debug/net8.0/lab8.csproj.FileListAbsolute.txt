@@ -1,0 +1,14 @@
+G:\kovaleva\laboratornaya\с# эээээх (((\lab8\lab8\bin\Debug\net8.0\lab8.exe
+G:\kovaleva\laboratornaya\с# эээээх (((\lab8\lab8\bin\Debug\net8.0\lab8.deps.json
+G:\kovaleva\laboratornaya\с# эээээх (((\lab8\lab8\bin\Debug\net8.0\lab8.runtimeconfig.json
+G:\kovaleva\laboratornaya\с# эээээх (((\lab8\lab8\bin\Debug\net8.0\lab8.dll
+G:\kovaleva\laboratornaya\с# эээээх (((\lab8\lab8\bin\Debug\net8.0\lab8.pdb
+G:\kovaleva\laboratornaya\с# эээээх (((\lab8\lab8\obj\Debug\net8.0\lab8.GeneratedMSBuildEditorConfig.editorconfig
+G:\kovaleva\laboratornaya\с# эээээх (((\lab8\lab8\obj\Debug\net8.0\lab8.AssemblyInfoInputs.cache
+G:\kovaleva\laboratornaya\с# эээээх (((\lab8\lab8\obj\Debug\net8.0\lab8.AssemblyInfo.cs
+G:\kovaleva\laboratornaya\с# эээээх (((\lab8\lab8\obj\Debug\net8.0\lab8.csproj.CoreCompileInputs.cache
+G:\kovaleva\laboratornaya\с# эээээх (((\lab8\lab8\obj\Debug\net8.0\lab8.dll
+G:\kovaleva\laboratornaya\с# эээээх (((\lab8\lab8\obj\Debug\net8.0\refint\lab8.dll
+G:\kovaleva\laboratornaya\с# эээээх (((\lab8\lab8\obj\Debug\net8.0\lab8.pdb
+G:\kovaleva\laboratornaya\с# эээээх (((\lab8\lab8\obj\Debug\net8.0\lab8.genruntimeconfig.cache
+G:\kovaleva\laboratornaya\с# эээээх (((\lab8\lab8\obj\Debug\net8.0\ref\lab8.dll
