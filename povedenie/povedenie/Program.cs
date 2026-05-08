@@ -36,6 +36,7 @@ public class TextMessagingStrategy : IMessagingStrategy
         return $"Критическое событие:\nВремя: {evt.Timestamp}\nМетрика: {evt.Metric}\nЗначение: {evt.Value}";
     }
 }
+//
 
 public class JsonMessagingStrategy : IMessagingStrategy
 {
